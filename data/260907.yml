@@ -5,18 +5,18 @@ about:
   head: 36f3feb
   archived: false
   latestVersion: "v0.34.0"
-  collectedAt: 2026-09-07T04:53:34Z
+  collectedAt: 2026-09-07T19:31:38Z
 timeline:
   created: 2025-04-23
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 815
+  star: 816
   watcher: 7
   fork: 122
   release: 59
   contributor: 9
-  pullRequest: 248
+  pullRequest: 250
   issue: 51
 language:
   Python: 580235
@@ -26,60 +26,60 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 8
-    openPR: 3
-    closedIssue: 1
-    openIssue: 3
+    openPR: 5
+    closedIssue: 2
+    openIssue: 2
     commit: 8
   last60d:
     since: 2026-07-09
     release: 6
     mergedPR: 15
-    openPR: 3
-    closedIssue: 4
-    openIssue: 4
+    openPR: 5
+    closedIssue: 5
+    openIssue: 3
     commit: 14
   last90d:
     since: 2026-06-09
     release: 10
     mergedPR: 51
-    openPR: 3
-    closedIssue: 5
-    openIssue: 4
+    openPR: 5
+    closedIssue: 6
+    openIssue: 3
     commit: 48
   last180d:
     since: 2026-03-11
     release: 14
     mergedPR: 73
-    openPR: 4
-    closedIssue: 7
-    openIssue: 4
+    openPR: 6
+    closedIssue: 8
+    openIssue: 3
     commit: 77
   last360d:
     since: 2025-09-12
     release: 28
     mergedPR: 119
-    openPR: 7
-    closedIssue: 25
-    openIssue: 12
+    openPR: 9
+    closedIssue: 26
+    openIssue: 11
     commit: 120
   last720d:
     since: 2024-09-17
     release: 59
     mergedPR: 181
-    openPR: 7
-    closedIssue: 39
-    openIssue: 12
+    openPR: 9
+    closedIssue: 40
+    openIssue: 11
     commit: 219
 total:
   release: 59
   mergedPR: 181
-  openPR: 7
-  closedIssue: 39
-  openIssue: 12
+  openPR: 9
+  closedIssue: 40
+  openIssue: 11
   commit: 219
 ---
 path: /home/runner/.x-repo/github.com/jonigl/mcp-client-for-ollama
-collectedAt: 2026-09-07T04:53:36Z
+collectedAt: 2026-09-07T19:31:40Z
 loc:
   Python:
     code: 10656
@@ -110,7 +110,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:53:38+00:00
+  collectedAt: 2026-09-07T19:31:41+00:00
   platform:
     darwin/arm64:
       name:  null
