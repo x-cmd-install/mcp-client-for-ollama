@@ -4,7 +4,7 @@
 
 Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences.
 
-![mcp-client-for-ollama](https://repo.x-cmd.io/mcp-client-for-ollama.svg)
+![mcp-client-for-ollama](https://repo.x-cmd.io/mcp-client-for-ollama.svg?lang=zh)
 
 ## 安装
 
@@ -20,32 +20,31 @@ x install mcp-client-for-ollama
 ## 发布
 
 - **最新版本**: `v0.34.0` (2026-09-01)
-- **最近提交**: 2026-09-01
-- **发布时间**: 2026-09-01T14:58:58Z
+- **最近提交**: 2026-09-10
 
 ## 流行度
 
-- **Star**: 816 · **Fork**: 123 · **开放 issue**: 52 · **贡献者**: 9
+- **Star**: 818 · **Fork**: 123 · **开放 issue**: 52 · **贡献者**: 9
 
 ## 累计统计
 
-- **发布数**: 59 · **已合并 PR**: 181 · **开放 PR**: 10 · **已关闭 issue**: 40 · **开放 issue**: 12 · **提交数**: 219
+- **发布数**: 59 · **已合并 PR**: 184 · **开放 PR**: 7 · **已关闭 issue**: 40 · **开放 issue**: 12 · **提交数**: 222
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 8 | 6 | 2 | 3 | 8 |
-| 90d | 2026-06-12 | 9 | 49 | 6 | 6 | 4 | 48 |
-| 360d | 2025-09-15 | 28 | 119 | 10 | 26 | 12 | 120 |
+| 30d | 2026-08-11 | 2 | 11 | 3 | 2 | 3 | 11 |
+| 90d | 2026-06-12 | 9 | 52 | 3 | 6 | 4 | 51 |
+| 360d | 2025-09-15 | 28 | 122 | 7 | 26 | 12 | 123 |
 
 ## 代码规模
 
-合计: **12,389** 行代码（覆盖前 5 种语言、共 **85** 个文件）。
+合计: **12,753** 行代码（覆盖前 5 种语言、共 **88** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 10,656 | 841 | 2,219 | 73 |
+| Python | 11,020 | 890 | 2,313 | 76 |
 | Svg | 1,675 | 0 | 0 | 4 |
 | Toml | 58 | 0 | 10 | 2 |
 | Markdown | 0 | 2,692 | 996 | 6 |
@@ -59,4 +58,4 @@ mcp-client-for-ollama 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:01:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:56:45Z._
