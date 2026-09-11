@@ -2,93 +2,93 @@ about:
   description: "Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences."
   license: MIT
   homepage: 
-  head: be3a6bc
+  head: 7322a9e
   archived: false
-  latestVersion: "v0.34.0"
-  latestRelease: "v0.34.0"
+  latestVersion: "v0.35.0"
+  latestRelease: "v0.35.0"
   latestPrerelease: "v0.1.11"
-  collectedAt: 2026-09-11T05:03:31Z
+  collectedAt: 2026-09-11T19:59:05Z
 timeline:
   created: 2025-04-23
-  lastCommit: 2026-09-10
-  lastVersion: 2026-09-01
-  lastRelease: 2026-09-01
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
   lastPrerelease: 2025-04-24
 popularity:
   star: 819
   watcher: 7
-  fork: 123
-  release: 59
+  fork: 124
+  release: 60
   contributor: 9
-  pullRequest: 254
+  pullRequest: 260
   issue: 52
 language:
-  Python: 616221
-totalBytes: 616221
+  Python: 622558
+totalBytes: 622558
 recent:
   last30d:
     since: 2026-08-12
-    release: 2
-    mergedPR: 13
+    release: 3
+    mergedPR: 18
     openPR: 1
-    closedIssue: 2
-    openIssue: 3
-    commit: 13
+    closedIssue: 3
+    openIssue: 2
+    commit: 18
   last60d:
     since: 2026-07-13
-    release: 5
-    mergedPR: 19
-    openPR: 1
-    closedIssue: 5
-    openIssue: 3
-    commit: 19
-  last90d:
-    since: 2026-06-13
-    release: 9
-    mergedPR: 54
+    release: 6
+    mergedPR: 24
     openPR: 1
     closedIssue: 6
-    openIssue: 4
-    commit: 53
+    openIssue: 2
+    commit: 24
+  last90d:
+    since: 2026-06-13
+    release: 10
+    mergedPR: 59
+    openPR: 1
+    closedIssue: 7
+    openIssue: 3
+    commit: 58
   last180d:
     since: 2026-03-15
-    release: 14
-    mergedPR: 78
+    release: 15
+    mergedPR: 83
     openPR: 2
-    closedIssue: 8
-    openIssue: 4
-    commit: 82
+    closedIssue: 9
+    openIssue: 3
+    commit: 87
   last360d:
     since: 2025-09-16
-    release: 28
-    mergedPR: 124
+    release: 29
+    mergedPR: 129
     openPR: 5
-    closedIssue: 26
-    openIssue: 12
-    commit: 125
+    closedIssue: 27
+    openIssue: 11
+    commit: 130
   last720d:
     since: 2024-09-21
-    release: 59
-    mergedPR: 186
+    release: 60
+    mergedPR: 191
     openPR: 5
-    closedIssue: 40
-    openIssue: 12
-    commit: 224
+    closedIssue: 41
+    openIssue: 11
+    commit: 229
 total:
-  release: 59
-  mergedPR: 186
+  release: 60
+  mergedPR: 191
   openPR: 5
-  closedIssue: 40
-  openIssue: 12
-  commit: 224
+  closedIssue: 41
+  openIssue: 11
+  commit: 229
 ---
 path: /home/runner/.x-repo/github.com/jonigl/mcp-client-for-ollama
-collectedAt: 2026-09-11T05:03:34Z
+collectedAt: 2026-09-11T19:59:07Z
 loc:
   Python:
-    code: 11255
-    comments: 922
-    blanks: 2389
+    code: 11344
+    comments: 957
+    blanks: 2402
     files: 78
   Svg:
     code: 1675
@@ -102,13 +102,13 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 2692
-    blanks: 996
+    comments: 2698
+    blanks: 999
     files: 6
 total:
-  code: 13328
-  comments: 3688
-  blanks: 3411
+  code: 13417
+  comments: 3729
+  blanks: 3427
   files: 90
 ---
 

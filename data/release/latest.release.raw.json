@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/releases/380599491",
-  "assets_url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/releases/380599491/assets",
-  "upload_url": "https://uploads.github.com/repos/jonigl/mcp-client-for-ollama/releases/380599491/assets{?name,label}",
-  "html_url": "https://github.com/jonigl/mcp-client-for-ollama/releases/tag/v0.34.0",
-  "id": 380599491,
+  "url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/releases/386979968",
+  "assets_url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/releases/386979968/assets",
+  "upload_url": "https://uploads.github.com/repos/jonigl/mcp-client-for-ollama/releases/386979968/assets{?name,label}",
+  "html_url": "https://github.com/jonigl/mcp-client-for-ollama/releases/tag/v0.35.0",
+  "id": 386979968,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOeox5c4Wr3zD",
-  "tag_name": "v0.34.0",
+  "node_id": "RE_kwDOOeox5c4XENiA",
+  "tag_name": "v0.35.0",
   "target_commitish": "main",
-  "name": "Release v0.34.0",
+  "name": "Release v0.35.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-09-01T14:55:57Z",
-  "updated_at": "2026-09-01T14:58:58Z",
-  "published_at": "2026-09-01T14:58:58Z",
+  "created_at": "2026-09-11T11:14:34Z",
+  "updated_at": "2026-09-11T15:52:12Z",
+  "published_at": "2026-09-11T11:16:32Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/tarball/v0.34.0",
-  "zipball_url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/zipball/v0.34.0",
-  "body": "## What's Changed\r\n* fix(tests): add pytest importlib import mode to fix collection by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/294\r\n* Update README.md by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/298\r\n* feat(server): route MCP server output to per-session log files by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/296\r\n* chore(deps): migrate to mcp SDK 2.x by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/299\r\n* chore(release): bump version to 0.34.0 by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/300\r\n\r\n\r\n**Full Changelog**: https://github.com/jonigl/mcp-client-for-ollama/compare/v0.33.3...v0.34.0",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/tarball/v0.35.0",
+  "zipball_url": "https://api.github.com/repos/jonigl/mcp-client-for-ollama/zipball/v0.35.0",
+  "body": "## What's Changed\r\n* fix(server): stop a dropped capability listing from killing the client by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/301\r\n* fix(client): forward structuredContent when a tool sends no text by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/309\r\n* fix(streaming): stop a failed chunk from silently emptying the response by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/310\r\n* chore(deps): bump any-llm-sdk to 1.27.2 by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/312\r\n* fix: tool calls and stream errors against cloud providers by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/313\r\n* chore(deps): bump typer from 0.27.1 to 0.27.2 by @dependabot[bot] in https://github.com/jonigl/mcp-client-for-ollama/pull/308\r\n* docs: add logging information for ollmcp in README files by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/315\r\n* fix(streaming): close the response stream when a silent run is aborted by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/316\r\n* fix(streaming): don't print the thinking header for whitespace-only reasoning by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/317\r\n* feat: add /new command and group alternate command names in autocomplete by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/318\r\n* chore(release): bump version to 0.35.0 by @jonigl in https://github.com/jonigl/mcp-client-for-ollama/pull/319\r\n\r\n\r\n**Full Changelog**: https://github.com/jonigl/mcp-client-for-ollama/compare/v0.34.0...v0.35.0\r\n\r\n### Credit\r\n\r\nThis release came almost entirely from user reports 🙏\r\n\r\nThanks to @EzequielEnrique, whose ruling out led to the tool naming and in-stream error fixes, to @razed-developer and @w1977-0 for the `structuredContent` half, and to @MaarVFX for sticking with the Unreal MCP connection bug until it was fixed 🙌\r\n\r\nAnd a special one to @skweeker, who runs all of this on an 8 GB Raspberry Pi 5 🫶 Small hardware finds bugs and helps make local tooling better for everyone: he followed this one through the Ollama logs down to the exact line that sets the context size, and thanks to @kartsan03 the fix is now heading upstream into any-llm itself 🙌",
+  "mentions_count": 8
 }
