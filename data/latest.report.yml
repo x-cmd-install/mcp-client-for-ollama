@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.34.0"
   latestRelease: "v0.34.0"
   latestPrerelease: "v0.1.11"
-  collectedAt: 2026-09-11T00:00:06Z
+  collectedAt: 2026-09-11T05:03:31Z
 timeline:
   created: 2025-04-23
   lastCommit: 2026-09-10
@@ -83,7 +83,7 @@ total:
   commit: 224
 ---
 path: /home/runner/.x-repo/github.com/jonigl/mcp-client-for-ollama
-collectedAt: 2026-09-11T00:00:09Z
+collectedAt: 2026-09-11T05:03:34Z
 loc:
   Python:
     code: 11255
