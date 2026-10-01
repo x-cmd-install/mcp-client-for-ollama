@@ -30,27 +30,27 @@ Total: **13,077** lines of code across **90** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.35.0` (2026-09-11)
-- **Last commit**: 2026-09-11
+- **Latest**: `v0.35.1` (2026-09-30)
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 828 · **Forks**: 129 · **Open issues**: 53 · **Contributors**: 10
+- **Stars**: 828 · **Forks**: 129 · **Open issues**: 53 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 192 · **Open PRs**: 7 · **Closed issues**: 42 · **Open issues**: 11 · **Commits**: 229
+- **Releases**: 61 · **Merged PRs**: 196 · **Open PRs**: 8 · **Closed issues**: 43 · **Open issues**: 10 · **Commits**: 233
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 13 | 2 | 2 | 3 | 10 |
-| last60d | 2026-08-01 | 3 | 18 | 3 | 3 | 3 | 18 |
-| 90d | 2026-07-02 | 8 | 35 | 3 | 7 | 3 | 35 |
-| last180d | 2026-04-03 | 15 | 83 | 4 | 9 | 3 | 87 |
-| 360d | 2025-10-05 | 29 | 130 | 7 | 26 | 11 | 130 |
-| last720d | 2024-10-10 | 60 | 192 | 7 | 42 | 11 | 229 |
+| 30d | 2026-09-01 | 3 | 14 | 3 | 3 | 2 | 14 |
+| last60d | 2026-08-02 | 4 | 22 | 4 | 4 | 2 | 22 |
+| 90d | 2026-07-03 | 9 | 39 | 4 | 8 | 2 | 39 |
+| last180d | 2026-04-04 | 16 | 87 | 5 | 10 | 2 | 91 |
+| 360d | 2025-10-06 | 30 | 134 | 8 | 27 | 10 | 134 |
+| last720d | 2024-10-11 | 61 | 196 | 8 | 43 | 10 | 233 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for mcp-client-for-ollama lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:52:39Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:18:16Z._
