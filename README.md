@@ -31,26 +31,26 @@ Total: **13,077** lines of code across **90** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.35.1` (2026-09-30)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 
 ## Popularity
 
-- **Stars**: 828 · **Forks**: 129 · **Open issues**: 53 · **Contributors**: 12
+- **Stars**: 827 · **Forks**: 129 · **Open issues**: 53 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 196 · **Open PRs**: 8 · **Closed issues**: 43 · **Open issues**: 10 · **Commits**: 233
+- **Releases**: 61 · **Merged PRs**: 198 · **Open PRs**: 7 · **Closed issues**: 44 · **Open issues**: 9 · **Commits**: 235
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 3 | 14 | 3 | 3 | 2 | 14 |
-| last60d | 2026-08-02 | 4 | 22 | 4 | 4 | 2 | 22 |
-| 90d | 2026-07-03 | 9 | 39 | 4 | 8 | 2 | 39 |
-| last180d | 2026-04-04 | 16 | 87 | 5 | 10 | 2 | 91 |
-| 360d | 2025-10-06 | 30 | 134 | 8 | 27 | 10 | 134 |
-| last720d | 2024-10-11 | 61 | 196 | 8 | 43 | 10 | 233 |
+| 30d | 2026-09-02 | 2 | 16 | 2 | 2 | 2 | 16 |
+| last60d | 2026-08-03 | 4 | 24 | 3 | 4 | 2 | 24 |
+| 90d | 2026-07-04 | 9 | 39 | 3 | 8 | 2 | 41 |
+| last180d | 2026-04-05 | 16 | 89 | 4 | 10 | 2 | 93 |
+| 360d | 2025-10-07 | 30 | 135 | 7 | 28 | 9 | 136 |
+| last720d | 2024-10-12 | 61 | 198 | 7 | 44 | 9 | 235 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for mcp-client-for-ollama lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:18:16Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:55:51Z._
