@@ -35,7 +35,7 @@ Total: **13,077** lines of code across **90** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 835 · **Forks**: 125 · **Open issues**: 53 · **Contributors**: 12
+- **Stars**: 836 · **Forks**: 125 · **Open issues**: 53 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **13,077** lines of code across **90** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 2 | 16 | 4 | 1 | 2 | 16 |
-| 90d | 2026-08-06 | 4 | 24 | 5 | 4 | 2 | 24 |
-| last180d | 2026-05-08 | 14 | 80 | 6 | 9 | 2 | 85 |
-| 360d | 2025-11-09 | 25 | 120 | 9 | 24 | 9 | 119 |
-| last720d | 2024-11-14 | 61 | 198 | 9 | 44 | 9 | 235 |
+| 30d | 2026-10-06 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 2 | 16 | 4 | 0 | 2 | 16 |
+| 90d | 2026-08-07 | 4 | 24 | 5 | 4 | 2 | 24 |
+| last180d | 2026-05-09 | 13 | 80 | 6 | 9 | 2 | 85 |
+| 360d | 2025-11-10 | 24 | 120 | 9 | 24 | 9 | 119 |
+| last720d | 2024-11-15 | 61 | 198 | 9 | 44 | 9 | 235 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for mcp-client-for-ollama lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:38:23Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:03:53Z._
