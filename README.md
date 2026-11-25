@@ -45,12 +45,12 @@ Total: **13,076** lines of code across **90** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 1 | 0 | 2 | 1 |
-| last60d | 2026-09-25 | 1 | 7 | 5 | 0 | 2 | 7 |
-| 90d | 2026-08-26 | 3 | 22 | 5 | 3 | 4 | 22 |
-| last180d | 2026-05-28 | 12 | 71 | 5 | 9 | 4 | 69 |
-| 360d | 2025-11-29 | 23 | 118 | 9 | 21 | 11 | 119 |
-| last720d | 2024-12-04 | 61 | 199 | 9 | 44 | 11 | 236 |
+| 30d | 2026-10-26 | 0 | 1 | 1 | 0 | 2 | 1 |
+| last60d | 2026-09-26 | 1 | 7 | 5 | 0 | 2 | 7 |
+| 90d | 2026-08-27 | 3 | 21 | 5 | 3 | 4 | 22 |
+| last180d | 2026-05-29 | 12 | 70 | 5 | 9 | 4 | 69 |
+| 360d | 2025-11-30 | 23 | 118 | 9 | 20 | 11 | 119 |
+| last720d | 2024-12-05 | 61 | 199 | 9 | 44 | 11 | 236 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for mcp-client-for-ollama lives in the [x-cmd/install](https://
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:28:28Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:37:27Z._
